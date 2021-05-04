@@ -16,8 +16,9 @@ emphasized throughout the course.
 
 ## Grading
 
- - 40% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
- - 40% : Use of effective methods in delivery of Topics project
+ - 30% : Demonstration of an understanding of CS teaching methods through class discussion, breakout rooms, small presentations.
+ - 30% : Use of effective methods in delivery of Topics project
+ - 20% : Final portfolio
  - 20% : participation
 
 
@@ -40,11 +41,12 @@ N/A
 | CT   | 4,9,10            |
 | DL   | 1,2,3,4,5,6,7     |
 
-### Pedagogical techniques covered
+### Topics
 1. July 9
    - Why should students study computer science?
    - What are the difficulties in teaching and learning computer science?
    - What tools can we use to explore CS?
+   - Describe portfolio requirement (see last topic)
 1. July 12
   - The anatomy of a CS lesson
 	- content
@@ -143,6 +145,24 @@ N/A
    - Code repositories (GitHub, GitLab)
    - Standards
 	- IC 3, 4
+1. Portfolio assignment due 1 week after last class session. 
+
+   Students are to create a detailed lesson plan, outline and
+   supporting materials for a computer science lesson. The lesson plan
+   and outline should include a description of the intended student
+   audience and a detailed explanation of how multiple pedagogical
+   techniques can be used in delevering the lesson. 
+   
+   For example, if the lesson includes subgoal labelling, the project
+   should include the finished desired code along with the subgoal
+   labels included within.
+   
+   The plan must also be aligned to the New York State Standerds for
+   Digital Fluencey and Computer Science.
+   
+   The completed assignment should be such that the portfolio can be
+   given to any computer science teacher and they could deliver the
+   lesson as intendded.
    
 ## Hunter College Policy on Academic Integrity
 

@@ -125,18 +125,23 @@ finding the link matching the topic name.
      - open hashing.
 1. July 30
    - Heaps 
- 
-
-
-
-
+1. Final project
+   - To be completed one week after the last class session and
+     weighted twice other projects.
+   - Students will complete a final project that encorporates
+     data structures and/or algorithms studied in the class.
+   - Examples: 
+	 - A Markov Chain based text generator using hash tables 
+	 - An A* search implementation using Heaps as a priority queue
+   
 ## Hunter College Policy on Academic Integrity
-
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations,
-obtaining unfair advantage, and falsification of records and official documents) as serious offenses
-against the values of intellectual honesty. The College is committed to enforcing the CUNY Policy
-on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College
-Academic Integrity Procedures.
+Hunter College regards acts of academic dishonesty (e.g., plagiarism,
+cheating on examinations, obtaining unfair advantage, and
+falsification of records and official documents) as serious offenses
+against the values of intellectual honesty. The College is committed
+to enforcing the CUNY Policy on Academic Integrity and will pursue
+cases of academic dishonesty according to the Hunter College Academic
+Integrity Procedures.
 
 ## ADA Policy
 

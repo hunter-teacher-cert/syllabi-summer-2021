@@ -1,3 +1,4 @@
+
 # CSCI 70700 - Modern Topics in Computer Science
 
 # Course Description
@@ -54,7 +55,7 @@ N/A
 ### Topics
 	
 	
-1. Course overview and Advanvec recursion
+1. Course overview and Advanced recursion
 	- Brief descriptions of each of the topics 
 	- Towers of Hanoi 
 	  - advanced recursion
@@ -81,7 +82,7 @@ N/A
 	  - CY 1, 2, 3
 	  - IC 4, 6
 1. Project development
-	- Flask assignment review and discussion of accessability
+	- Flask assignment review and discussion of accessibility
 	- Lab: project development
 	- Standards
       - CT 6

@@ -36,7 +36,7 @@ Text https://books.trinket.io/thinkjava/
 
 ## Standards Summary
 
- | Area | Stanards covered |
+ | Area | Standards covered |
  |------|------------------|
  | IC   | 3                |
  | CT   | 1,2,4,5,6,7,8,9  |
@@ -49,7 +49,7 @@ Text https://books.trinket.io/thinkjava/
 See specific pre-work topic web page for readings, assignment and
 other details (https://github.com/hunter-teacher-cert/pre-work).
 
- 1. Setting up a Java development envirotnment and GitHub
+ 1. Setting up a Java development environment and GitHub
     - DL 4,5,6
  1. Your first Java program.
  1. data Types
@@ -89,9 +89,9 @@ other details (https://github.com/hunter-teacher-cert/pre-work).
 	  
 1. June 30 
    - Fundamental Recursion 
-   - Lab - recursion lab (Fibonaci  3 ways)
+   - Lab - recursion lab (Fibonacci  3 ways)
    - Divided Difference square root approximation
-   - asignment square root approximation implementation
+   - assignment square root approximation implementation
    - Standards
 	 - CT 4,5,9
 1. July 1
@@ -114,7 +114,7 @@ other details (https://github.com/hunter-teacher-cert/pre-work).
    - Reading: Think Java Chapters 10 and 11
    - lab: Time Class lab
    - SuperArray introduction
-   - lab / assignment: superarray part 1
+   - lab / assignment: SuperArray part 1
    - Standards
      - CT 6,10
 1. July 7
@@ -134,18 +134,22 @@ other details (https://github.com/hunter-teacher-cert/pre-work).
    
 ## Hunter College Policy on Academic Integrity
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations,
-obtaining unfair advantage, and falsification of records and official documents) as serious offenses
-against the values of intellectual honesty. The College is committed to enforcing the CUNY Policy
-on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College
-Academic Integrity Procedures.
+Hunter College regards acts of academic dishonesty (e.g., plagiarism,
+cheating on examinations, obtaining unfair advantage, and
+falsification of records and official documents) as serious offenses
+against the values of intellectual honesty. The College is committed
+to enforcing the CUNY Policy on Academic Integrity and will pursue
+cases of academic dishonesty according to the Hunter College Academic
+Integrity Procedures.
 
 ## ADA Policy
 
-In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the
-Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and
-accommodations for all students with documented disabilities and/or medical conditions. It is
-recommended that all students with documented disabilities (Emotional, Medical, Physical, and/or
-Learning) consult the Office of AccessABILITY, located in Room E1214B, to secure necessary
-academic accommodations. For further information and assistance, please call: (212) 772- 4857 or
-(212) 650-3230.
+In compliance with the American Disability Act of 1990 (ADA) and with
+Section 504 of the Rehabilitation Act of 1973, Hunter College is
+committed to ensuring educational parity and accommodations for all
+students with documented disabilities and/or medical conditions. It is
+recommended that all students with documented disabilities (Emotional,
+Medical, Physical, and/or Learning) consult the Office of
+AccessABILITY, located in Room E1214B, to secure necessary academic
+accommodations. For further information and assistance, please call:
+(212) 772- 4857 or (212) 650-3230.

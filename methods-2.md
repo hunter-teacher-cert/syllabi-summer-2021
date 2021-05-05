@@ -6,7 +6,7 @@
 This course will prepare teacher-candidates to use a variety of
 pedagogical techniques including both general and those specific to
 teaching computer science.  Teacher-candidates will also become
-knowledgable in social and ethical issues related to computer science
+knowledgeable in social and ethical issues related to computer science
 and computing including privacy, cyber bullying, and
 piracy. Teacher-candidates will learn to use a variety of technical
 tools to both administer their class as well as to support instruction
@@ -28,7 +28,7 @@ N/A
 
 # Standards note
 
-There will be a breif overview of the NY State Standards in week 2. A
+There will be a brief overview of the NY State Standards in week 2. A
 more thorough study of the standards takes place in the Curriculum
 Development class.
 
@@ -54,16 +54,16 @@ Specific standards coverage:
     -  Study of NYC Data Mine
 	-  Other real world data sources
 	-  Integrating student experiences into lessons
-	-  Asisgnment: Design a data driven assignment
+	-  Assignment: Design a data driven assignment
 	- CT 1,2,3
 
 1. Managing a CS class, introduction to differentiating instruction in a CS class, scaffolding
 
    - Differentiated instruction video:  https://www.youtube.com/watch?v=yNpEtrulPIg&t=190s,
-   - Assigment: modify the real world data assignment to add differentiation
+   - Assignment: modify the real world data assignment to add differentiation
 
 
-1. Leverageing Current events in computer science 
+1. Leveraging Current events in computer science 
    - Finding appropriate current events resources
    - Truth in current events resources
    - Bias and ethical concerns in current events resources
@@ -74,7 +74,7 @@ Specific standards coverage:
    - Survey of languages (Scratch, NetLogo, P5js/Processing)
    - Comparison of language strengths to learning outcomes
    - Environmental extras (Scratch and Repl.it's network
-     infrastructure, Procesisng and Python's library ecosystems).
+     infrastructure, Processing and Python's library ecosystems).
    - Assignment: Design a lesson that exploits a particular tools
      strength to enhance student learning of CS.
    - DL 2,3,4,5,7
@@ -86,7 +86,7 @@ Specific standards coverage:
    -  Assignment: Create github classroom with feedback and grading mechanism
    - DL 2,3,4,5,7
    
-1. Copying vs collaborating (and related ethical issues), plagarism, getting to the right learning resources, peer instruction
+1. Copying vs collaborating (and related ethical issues), plagiarism, getting to the right learning resources, peer instruction
    - verifying assignments and student work 
    - good vs bad resources for students (stack overflow)
    - Reading: Calif and Goodwin
@@ -99,7 +99,7 @@ Specific standards coverage:
    - NSD 3
 
 1. HW , Assessment, and project design
-   - Spirlaing in CS
+   - Spiraling in CS
    - multi-stage assignments
    - Assignment management over time
    - Assignment types: programming, code analysis, Parsons problems etc.
@@ -117,7 +117,7 @@ Specific standards coverage:
 1. Teaching CS problem solving strategies
    -  Decomposing problems
    -  Code tracing
-   -  Usign examples
+   -  Using examples
    -  Defining subproblems 
 
 
@@ -135,7 +135,7 @@ By the end of this course, students will be able to:
   - Employ sound questioning techniques and facilitate effective class discussions.
    - assess learning and differentiate instruction for diverse populations.
    - Employ a variety of effective pedagogical standards in order to deliver instruction aligned with the proposed CSTA standards.
-   - Use current technology and CS content and wil be able to learn new technologies and content.
+   - Use current technology and CS content and will be able to learn new technologies and content.
 
     - Teacher-candidates will be able to develop coherent, meaningful goals, plans, and materials.
 

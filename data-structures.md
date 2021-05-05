@@ -47,7 +47,7 @@ finding the link matching the topic name.
 
 ### Standards Summary
 
- | Area | Stanards covered |
+ | Area | Standards covered |
  |------|------------------|
  | CT   | 2,3,5,6,7        |
  | NSD  | 1,4              |
@@ -72,15 +72,15 @@ finding the link matching the topic name.
 	   - CT 2,3
        - NSD 1 
 1. July 14
-   - Comparing and contrasting Linked Lists with Array based structurs
-   - Exploring Java built in implemeentations
+   - Comparing and contrasting Linked Lists with Array based structures
+   - Exploring Java built in implementations
    - Assignment: Linked List data structure implementation continued
    - Standards
 	 - CT 2,3
 	 - NSD 1
 1. July 15
    - Stacks 
-   - lab / assignment: stack design and implementaiton
+   - lab / assignment: stack design and implementation
 1. July 16
    - Queues
    - lab / assignment: queue design and implementation
@@ -93,7 +93,7 @@ finding the link matching the topic name.
    - assignment: mergesort part 1
 1. July 21
    - lab: mergesort completion
-   - assignment: mergesrot vs slow sort tests
+   - assignment: mergesort vs slow sort tests
    - Standards 
      - CT 6,7
 1. July 22 
@@ -121,14 +121,14 @@ finding the link matching the topic name.
      - NSD 4
 1. July 29
    - Hash tables 
-	 - closed hasing
+	 - closed hashing
      - open hashing.
 1. July 30
    - Heaps 
 1. Final project
    - To be completed one week after the last class session and
      weighted twice other projects.
-   - Students will complete a final project that encorporates
+   - Students will complete a final project that incorporates
      data structures and/or algorithms studied in the class.
    - Examples: 
 	 - A Markov Chain based text generator using hash tables 

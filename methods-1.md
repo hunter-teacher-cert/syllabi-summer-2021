@@ -27,7 +27,7 @@ emphasized throughout the course.
    - Plan and deliver effective computer science instruction.
    - assess learning and differentiate instruction for diverse populations.
    - Employ a variety of effective pedagogical standards in order to deliver instruction aligned with the proposed CSTA standards.
-   - Use current technology and CS content and wil be able to learn new technologies and content. Teacher-candidates will be able to develop coherent, meaningful goals, plans, and materials.
+   - Use current technology and CS content and will be able to learn new technologies and content. Teacher-candidates will be able to develop coherent, meaningful goals, plans, and materials.
 
 ### Texts
 
@@ -86,19 +86,19 @@ N/A
   - Standards 
     - CT 10
 1. July 20
-  - Scaffodling assignments
+  - Scaffolding assignments
     - Code templates
 	- starter code
 	- code idioms
    - Assignment: Analyze and existing program. What would you pull out
-     as starter code or code tempaltes for a student assignment.
+     as starter code or code templates for a student assignment.
    - Standards 
 	 - CT 4
 1. July 21
    - SE techniques that can be used in the classroom
    - coding standards
-   - Subgoal labelling
-   - lab/assigmnet: Break down a CS program with subgoal labels. 
+   - Subgoal labeling
+   - lab/assignment: Break down a CS program with subgoal labels. 
    - Standards 
      - CT 9
 1. July 22 
@@ -118,7 +118,7 @@ N/A
 
 1. July 26
    Using other peoples code.
-   - Using libarary code
+   - Using library code
    - "thwarting" assignments
    - Ethical issues (copying vs collaborating)
    - Standards 
@@ -136,7 +136,7 @@ N/A
    Setting up student workflows
    - Tools
    - language sets
-   - resoruces
+   - resources
    - Standards 
 	 - DL 1-7
 1. July 30
@@ -151,18 +151,18 @@ N/A
    supporting materials for a computer science lesson. The lesson plan
    and outline should include a description of the intended student
    audience and a detailed explanation of how multiple pedagogical
-   techniques can be used in delevering the lesson. 
+   techniques can be used in delivering the lesson. 
    
-   For example, if the lesson includes subgoal labelling, the project
+   For example, if the lesson includes subgoal labeling, the project
    should include the finished desired code along with the subgoal
    labels included within.
    
-   The plan must also be aligned to the New York State Standerds for
-   Digital Fluencey and Computer Science.
+   The plan must also be aligned to the New York State Standards for
+   Digital Fluency and Computer Science.
    
    The completed assignment should be such that the portfolio can be
    given to any computer science teacher and they could deliver the
-   lesson as intendded.
+   lesson as intended.
    
 ## Hunter College Policy on Academic Integrity
 

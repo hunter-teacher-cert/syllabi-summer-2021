@@ -1,7 +1,7 @@
 # SEDC 73600: Curriculum Design For Computer Science
 
 ### Department Of Curriculum & Teaching / Computer Science Education\
-### Hunter College, Cuny
+### Hunter College, CUNY
 ### Fall Semester 2020
 ### Professor Jonalf Dyrland-Weaver
 ### Office Hours: TBA And By Appointment
@@ -55,7 +55,7 @@ In Schools Selected By The College.
 
 * Assignments (Exclusive Of The Term Curriculum Project) (25%)
 * Developed Curriculum And Class Presentation (55%)
-* Class Participation (Including Asynchornous Discussion & Group Work) (20%)
+* Class Participation (Including Asynchronous Discussion & Group Work) (20%)
 * Field Work: Must Complete 50 Hours To Earn A Passing Grade In This Class
   * Most fieldwork will consist of observing other teachers, being observed by fellow candidates & having post observation discussions.
   * Some of the fieldwork must be in the K-5 space, we are working on providing opportunities to work with K-5 teachers, as all candidates are currently in 6-12.
@@ -83,7 +83,7 @@ Curricula.
   * Async discussion:
     * Sharing local school curriculum decisions.
 
-* Week 2 - Survey Of Existing Cs Curricula (Apcsa, Apcsp, Others) And Fieldwork Overview
+* Week 2 - Survey Of Existing Cs Curricula (APCSA, APCSP, Others) And Fieldwork Overview
   * Async pre-work & discussion:
     * Reading: [Official APCSP Curricula](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources/curricula-pedagogical-support)
   * Fieldwork overview & discussion.
@@ -95,12 +95,12 @@ Curricula.
   * Presentation of the development of Stuyvesant High School's Introduction to Computer Science course.
   * Costs and Benefits of creating your own curriculum.
   * Async discussion:
-    * Redeisgn a lesson or project for a CS class you currently teach.
+    * Redesign a lesson or project for a CS class you currently teach.
   * Assignment:
     * What CS class would you like to develop?
 
-* Week 4 - Forming Curriculum Groups, Filedwork Observation planning
-  * Asyn discussion:
+* Week 4 - Forming Curriculum Groups, Fieldwork Observation planning
+  * Async discussion:
     * Start to fill out the fieldwork pairing grid: https://docs.google.com/spreadsheets/d/1-PMLanyRCiPXh0XkTkidjq4Tpoz8PNJv7vY66qN5__g/edit#gid=0
   * Assignment:
     * Begin to create your unit plan proposal.
@@ -158,11 +158,11 @@ Curricula.
 
 > "In Compliance With The Ada And With Section 504 Of The Rehabilitation
 > Act, Hunter College Is Committed To Ensuring Educational Access And
-> Accommodations For All Its Registered Students. Hunter College'S
+> Accommodations For All Its Registered Students. Hunter College's
 > Students With Disabilities And Medical Conditions Are Encouraged To
-> Register With The Office Of Accessability For Assistance And
+> Register With The Office Of Accessibility For Assistance And
 > Accommodation. For Information And Appointment Contact The Office Of
-> Accessability Located In Room E1214 Or Call (212) 772-4857 /Or Tty
+> Accessibility Located In Room E1214 Or Call (212) 772-4857 /Or Tty
 > (212) 650-3230."
 
 ## Hunter Policy On Sexual Misconduct**

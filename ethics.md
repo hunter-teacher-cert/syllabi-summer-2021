@@ -19,7 +19,7 @@ Ethical concerns are frequently ignored in technical fields, but as a society we
 
 1. Create programs and computer-based systems that minimize negative ethical factors such as bias and unintended consequences.
 
-2. Create programs and computer-based systems that maximize factors including accessiblity, equity, and diversity.
+2. Create programs and computer-based systems that maximize factors including accessibility, equity, and diversity.
 
 3. Analyze existing computer systems to determine where factors such as bias, unintended consequences and other ethical concerns exist.
 
@@ -88,7 +88,7 @@ There is no required text for this course. Readings will be assigned from a vari
 - Readings:
   - Simple Demographics Often Identify People Uniquely, Latanya
     Sweeney [http://dataprivacylab.org/projects/identifiability/paper1.pdf](http://dataprivacylab.org/projects/identifiability/paper1.pdf)
-  - Weaving Techonlogy and Policy Together to Maintain Confidentiality, Latanya Sweeney  [http://dataprivacylab.org/dataprivacy/projects/law/jlme.pdf](https://dataprivacylab.org/dataprivacy/projects/law/law1.html)
+  - Weaving Technology and Policy Together to Maintain Confidentiality, Latanya Sweeney  [http://dataprivacylab.org/dataprivacy/projects/law/jlme.pdf](https://dataprivacylab.org/dataprivacy/projects/law/law1.html)
 
 - Assignment:
   - Write a program to analyze Census data to determine how unique you are based on zip code, gender, and birth date.

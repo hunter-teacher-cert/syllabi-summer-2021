@@ -1,4 +1,4 @@
-# Methods for teaching computer science
+# SEDC 71900 Methods for teaching computer science
 
 # Course Description
 

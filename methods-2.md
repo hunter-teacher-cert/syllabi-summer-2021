@@ -1,5 +1,11 @@
 # SEDC 72900 - Methods 2
 
+### Department Of Curriculum & Teaching / Computer Science Education\
+### Hunter College, CUNY
+### Spring Semester 2022
+### Professor: TBD
+### Office Hours: TBA And By Appointment
+
 
 # Course Description
 

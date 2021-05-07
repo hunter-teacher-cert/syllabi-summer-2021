@@ -1,5 +1,13 @@
 # CSCI 70900 - Programming in a high level language
 
+### Department Of Computer Science
+### Hunter College, CUNY
+### Summer Semester 2021
+### Professor William Sakas
+### Office Hours: TBA And By Appointment
+
+
+
 # Course Description
 
 Programming in a high level language introduces students to computer

@@ -1,5 +1,11 @@
-
 # CSCI 70700 - Modern Topics in Computer Science
+
+### Department Of Computer Science
+### Hunter College, CUNY
+### Spring Semester 2022
+### Professor Genady Maryash
+### Office Hours: TBA And By Appointment
+
 
 # Course Description
 

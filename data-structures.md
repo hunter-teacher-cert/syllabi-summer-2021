@@ -1,5 +1,13 @@
 # CSCI 70300 - Data Structures in a high level language
 
+### Department Of Computer Science
+
+### Hunter College, CUNY
+### Summer Semester 2021
+### Professor Michael Zamansky
+### Office Hours: TBA And By Appointment
+### Email mz631@hunter.cuny.edu
+
 # Course Description
 
 This course will provide aspiring and practicing teachers with a

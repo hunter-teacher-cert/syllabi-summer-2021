@@ -2,13 +2,11 @@
 
 ### Department Of Curriculum & Teaching / Computer Science Education\
 ### Hunter College, CUNY
-### Fall Semester 2020
+### Fall Semester 2021
 ### Professor Jonalf Dyrland-Weaver
 ### Office Hours: TBA And By Appointment
 ### Email jd5122@hunter.cuny.edu
 
-### Class Zoom link: https://huntercollege.zoom.us/j/95001077810?pwd=Vjk5bHZ6YzFaNWdFR3lSa3gwNUtZZz09
-### Program slack link: https://hunterteacher-vyz6159.slack.com
 
 ## Required Texts:
 

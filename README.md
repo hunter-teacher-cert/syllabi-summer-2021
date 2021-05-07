@@ -21,17 +21,17 @@
   - [pdf](methods-2.pdf) (right click to save)
 
 # Fall 2021
-- CSCI 70700 Modern Topics and Concepts in Computer Science
-  - [Syllabus](topics.md)
-  - [pdf](topics.pdf) (right click to save)
+- CSCI 77800: Ethics and Computer Science
+  - [Syllabus](ethics.md)
+  - [pdf](ethics.pdf) (right click to save)
 - SEDC 73600 Curriculum Design for Computer Science
   - [Syllabus](currdev.md)
   - [pdf](currdev.pdf) (right click to save)
 
 # Spring 2022
-- CSCI 77800: Ethics and Computer Science
-  - [Syllabus](ethics.md)
-  - [pdf](ethics.pdf) (right click to save)
+- CSCI 70700 Modern Topics and Concepts in Computer Science
+  - [Syllabus](topics.md)
+  - [pdf](topics.pdf) (right click to save)
 
 - SEDC 72900 - Methods for Teaching Computer Science 2
   - [Syllabus](methods-2.md)

@@ -1,12 +1,11 @@
 # CSCI 77800: Ethics and Computer Science
 
-### Term: Fall Semester 2020
+### Term: Fall Semester 2021
 
-### Professor: Topher Mykolyk
+### Professor: Sven Dietrich
 
-### Office Hours: Monday, Tuesday 17:00-18:00EST and by appointment
+### Office Hours: TBA
 
-### Email: cm5950\@hunter.cuny.edu
 
 ## Course Description:
 *"Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should." - Jurassic Park, Michael Crichton*

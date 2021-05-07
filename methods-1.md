@@ -1,5 +1,13 @@
 # SEDC 71900 Methods for teaching computer science
 
+### Department Of Curriculum & Teaching / Computer Science Education\
+### Hunter College, CUNY
+### Summer Semester 2021
+### Professor Jonalf Dyrland-Weaver
+### Office Hours: TBA And By Appointment
+### Email jd5122@hunter.cuny.edu
+
+
 # Course Description
 
 Familiarizes teachers, grades with pedagogical approaches and

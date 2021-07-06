@@ -68,9 +68,11 @@ finding the link matching the topic name.
    - Examination of ArrayList source code
 	 - http://developer.classpath.org/doc/java/util/ArrayList-source.html
 1. July 12
+   - Solving a maze
+1. July 13
    - Introduction to pointers in Java 
 	 - assignment: pointer diagram exercises
-1. July 13
+1. July 14
    1. Linked Lists 
 	 - Linked list definition
 	 - Node definition
@@ -79,17 +81,16 @@ finding the link matching the topic name.
 	 - Standards 
 	   - CT 2,3
        - NSD 1 
-1. July 14
+1. July 15
    - Comparing and contrasting Linked Lists with Array based structures
    - Exploring Java built in implementations
    - Assignment: Linked List data structure implementation continued
    - Standards
 	 - CT 2,3
 	 - NSD 1
-1. July 15
+1. July 16
    - Stacks 
    - lab / assignment: stack design and implementation
-1. July 16
    - Queues
    - lab / assignment: queue design and implementation
 1. July 19

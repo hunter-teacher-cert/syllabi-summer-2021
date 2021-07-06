@@ -71,7 +71,7 @@ finding the link matching the topic name.
    - Introduction to pointers in Java 
 	 - assignment: pointer diagram exercises
 1. July 13
-  1. Linked Lists 
+   1. Linked Lists 
 	 - Linked list definition
 	 - Node definition
 	 - Creating a linked list

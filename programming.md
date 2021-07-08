@@ -3,7 +3,7 @@
 ### Department Of Computer Science
 ### Hunter College, CUNY
 ### Summer Semester 2021
-### Professor William Sakas
+### Professor Genady Maryash
 ### Office Hours: TBA And By Appointment
 
 

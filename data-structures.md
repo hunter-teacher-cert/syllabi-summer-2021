@@ -144,6 +144,8 @@ finding the link matching the topic name.
 	 - Knights tour or N-queens
 	 - Doubly linked list implementation
 	 - stack or queue implementations
+	 - open hash table or variation implementation
+	 - Heap / heapsort implementation
    
 ## Hunter College Policy on Academic Integrity
 Hunter College regards acts of academic dishonesty (e.g., plagiarism,

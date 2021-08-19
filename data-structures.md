@@ -90,12 +90,11 @@ finding the link matching the topic name.
 	 - NSD 1
 1. July 16
    - Stacks 
-   - lab / assignment: stack design and implementation
+   - lab / assignment: stack design
    - Queues
-   - lab / assignment: queue design and implementation
+   - lab / assignment: queue design
 1. July 19
    - comparison of array and linked list stack/queue implementation
-   - lab: alternate implementations
 1. July 20
    - Review of slow sorts and searches
    - start mergesort
@@ -141,7 +140,10 @@ finding the link matching the topic name.
      data structures and/or algorithms studied in the class.
    - Examples: 
 	 - A Markov Chain based text generator using hash tables 
-	 - An A* search implementation using Heaps as a priority queue
+	 - An implementation of the Quicksort
+	 - Knights tour or N-queens
+	 - Doubly linked list implementation
+	 - stack or queue implementations
    
 ## Hunter College Policy on Academic Integrity
 Hunter College regards acts of academic dishonesty (e.g., plagiarism,
